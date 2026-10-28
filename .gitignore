@@ -1,0 +1,12 @@
+build/
+out/
+dist/
+third_party/
+.vs/
+*.user
+*.suo
+*.pdb
+*.ilk
+*.obj
+*.exe
+!build/.gitkeep
